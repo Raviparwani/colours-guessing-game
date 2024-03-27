@@ -1,6 +1,6 @@
 {
   "name": "colours-guessing-game-3rkp1-0-0",
-  "version": "1.0.0",
+  "version": "2.0.1",
   "description": "colours guessing game",
   "main": "index.js",
   "type": "module",
